@@ -1,0 +1,9 @@
+*.pt
+*experiment*
+*.png
+*.jpeg
+*.log
+*.ipynb
+__pycache__
+.ipynb_checkpoints
+data_paths

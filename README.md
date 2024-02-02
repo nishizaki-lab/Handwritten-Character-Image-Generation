@@ -1,0 +1,1 @@
+# Handwritten Character Image Generation for Effective Data Augmentation

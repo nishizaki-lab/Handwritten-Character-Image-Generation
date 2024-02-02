@@ -1,0 +1,475 @@
+A-OTF Gothic MB101 Pr6N L.otf
+A-OTF Jun Pro 101.otf
+A-OTF Ryumin Pr6N L-KL.otf
+A-OTF UD Reimin Pr6N L.otf
+A-OTF UD Shin Go Con80 Pr6N L.otf
+A-OTF UD Shin Go Pr6N L.otf
+A-OTF UD Shin Maru Go Pr6N L.otf
+AB-24h Regular.otf
+AB-KazunAun_f Regular.otf
+AB-aki Regular.otf
+AB-andante Regular.otf
+AB-anzu Regular.otf
+AB-anzu_R Regular.otf
+AB-aotama Regular.otf
+AB-babywalk Regular.otf
+AB-booing Regular.otf
+AB-chalk Regular.otf
+AB-circle Regular.otf
+AB-clip_medium Regular.otf
+AB-countryroad Regular.otf
+AB-digicomb Regular.otf
+AB-donmai Regular.otf
+AB-doramin Regular.otf
+AB-doudoukaisyo Regular.otf
+AB-fudeshichi Regular.otf
+AB-gagaku_b Regular.otf
+AB-gagaku_m Regular.otf
+AB-hanamaki Regular.otf
+AB-harumi_r Regular.otf
+AB-hasefude Regular.otf
+AB-hasemomo_r Regular.otf
+AB-hieros_regular Regular.otf
+AB-hiro Regular.otf
+AB-hougan_m500 Regular.otf
+AB-ikkyu Regular.otf
+AB-intore Regular.otf
+AB-itaikoku Regular.otf
+AB-j_choki Regular.otf
+AB-j_gu Regular.otf
+AB-jaroku_bold Regular.otf
+AB-kai_b Regular.otf
+AB-kai_e Regular.otf
+AB-kai_light Regular.otf
+AB-kai_m Regular.otf
+AB-karuta_bold Regular.otf
+AB-karuta_el Regular.otf
+AB-kesera Regular.otf
+AB-kikori Regular.otf
+AB-kinmokusei_kuro Regular.otf
+AB-kiraku_l Regular.otf
+AB-kirigirisu Regular.otf
+AB-koki Regular.otf
+AB-kokikaku Regular.otf
+AB-kokoro_no1 Regular.otf
+AB-kokoro_no3 Regular.otf
+AB-kotatsu Regular.otf
+AB-kotodama_f Regular.otf
+AB-kotodama_l Regular.otf
+AB-kotodama_u Regular.otf
+AB-kotsubu Regular.otf
+AB-kouran_gyosho Regular.otf
+AB-kumiki_b Regular.otf
+AB-kumiki_l Regular.otf
+AB-kumiki_m Regular.otf
+AB-lineboard_bold Regular.otf
+AB-maruhanamaki Regular.otf
+AB-marusan Regular.otf
+AB-mayuminwalk Regular.otf
+AB-megadot9 Regular.otf
+AB-nara Regular.otf
+AB-neuron Regular.otf
+AB-omusubi Regular.otf
+AB-plus Regular.otf
+AB-pochi Regular.otf
+AB-polcadot Regular.otf
+AB-quadra Regular.otf
+AB-roman Regular.otf
+AB-ryusen_aki Regular.otf
+AB-ryusen_fuyu Regular.otf
+AB-ryusen_haru Regular.otf
+AB-ryusen_natsu Regular.otf
+AB-ryushichi Regular.otf
+AB-sanpobito Regular.otf
+AB-seiryu_light Regular.otf
+AB-sekka Regular.otf
+AB-shoutenmaru Regular.otf
+AB-stick_medium Regular.otf
+AB-suruga_u Regular.otf
+AB-suzume Regular.otf
+AB-tanteidan Regular.otf
+AB-taro Regular.otf
+AB-tegami Regular.otf
+AB-togetsukanteiryu Regular.otf
+AB-tombo_bold Regular.otf
+AB-tori_a Regular.otf
+AB-tori_b Regular.otf
+AB-tsubaki Regular.otf
+AB-tsurumaru Regular.otf
+AB-tyuusyobokunenn Regular.otf
+AB-walk Regular.otf
+AB-waraku_m Regular.otf
+AB-yamabiko_b Regular.otf
+AB-yogurt Regular.otf
+AB-yurumin Regular.otf
+AB_appare Regular.otf
+AB_ootori Regular.otf
+AB_shinyubipenjigyosyotai Regular.otf
+AB_tsurara Regular.otf
+AB_yoshienoryokan_DB Regular.otf
+AB_yoshienoryokan_b Regular.otf
+AB_yoshienoryokan_m Regular.otf
+ABajiminm_chikuceb Regular.otf
+Adobe Fangsong Std R.otf
+Adobe Heiti Std R.otf
+Adobe Kaiti Std R.otf
+Adobe Song Std L.otf
+Alibaba PuHuiTi Bold.otf
+Alibaba PuHuiTi Light.otf
+Alibaba PuHuiTi Medium.otf
+Alibaba PuHuiTi Regular.otf
+BIZ UDGothic Bold.otf
+BokutohRera 5.otf
+BokutohRuika 07.otf
+Capirera 1.otf
+Corporate Logo ver2 Medium.otf
+DNP ShueiAntiStd B.otf
+DNP ShueiGoGinStd L.otf
+DNP ShueiNMinStd L.otf
+DNP ShueiYMinStd B.otf
+DNP ShueiYMinStd M.otf
+DNPShuei4goBStd Hv.otf
+DNPShuei4goStd M.otf
+DNPShueiMinPr6 B.otf
+DNPShueiMinPr6 L.otf
+DNPShueiNShogoMinStd Hv.otf
+DNPShueiShogoMinStd Hv.otf
+Dela Gothic One Regular.otf
+DotGothic16 Regular.otf
+FOT-Cezanne ProN M.otf
+FOT-Chiaro Std B.otf
+FOT-Klee Pro DB.otf
+FOT-Klee Pro M.otf
+FOT-Matisse ProN M.otf
+FOT-Rodin ProN DB.otf
+FOT-Seurat ProN DB.otf
+FOT-TsukuAOldMin Pr6N L.otf
+FOT-TsukuARdGothic Std B.otf
+FOT-TsukuARdGothic Std R.otf
+FOT-TsukuBRdGothic Std B.otf
+FOT-TsukuMin Pr6N L.otf
+FOT-UDKakugoC60 Pro L.otf
+FOT-UDKakugoC60 Pro R.otf
+FOT-UDKakugoC70 Pro R.otf
+FOT-UDKakugoC80 Pro B.otf
+FOT-UDKakugo_Large Pr6N B.otf
+FOT-UDKakugo_Large Pr6N DB.otf
+FOT-UDKakugo_Large Pr6N L.otf
+FOT-UDKakugo_Large Pr6N M.otf
+FOT-UDKakugo_Large Pr6N R.otf
+FOT-UDKakugo_Small Pr6N R.otf
+FOT-UDMarugo_Large Pr6N B.otf
+FOT-UDMarugo_Large Pr6N DB.otf
+FOT-UDMarugo_Large Pr6N L.otf
+FOT-UDMarugo_Large Pr6N M.otf
+FOT-UDMincho Pr6N L.otf
+Genkaimincho Regular.otf
+HOT-GFKaishokk E.otf
+HOT-Gekai11kk R.otf
+HOT-Gyoshokk R.otf
+HOT-Kaishokk R.otf
+HOT-Kointaikk R.otf
+HOT-ReishoRkk R.otf
+HOT-Soshokk R.otf
+HOT-Tenkoinkk M.otf
+HOT-Tenshokk M.otf
+Hachi Maru Pop Regular.otf
+HappyRuika 05.otf
+Heisei Kaku Gothic Std W3.otf
+Heisei Kaku Gothic Std W9.otf
+Heisei Kaku Gothic StdN W5.otf
+Heisei Maru Gothic Std W4.otf
+Heisei Mincho Std W5.otf
+Heisei Mincho Std W7.otf
+Heisei Mincho Std W9.otf
+Heisei Mincho StdN W3.otf
+Hina Mincho Regular.otf
+Honoka Maru-Gothic Regular.otf
+IBM Plex Sans JP Bold.otf
+IBM Plex Sans JP ExtraLight.otf
+IBM Plex Sans JP Light.otf
+IBM Plex Sans JP Medium.otf
+IBM Plex Sans JP Regular.otf
+IBM Plex Sans JP SemiBold.otf
+IBM Plex Sans JP Text.otf
+Isego Regular.otf
+Isemin Regular.otf
+Kaisei Decol Bold.otf
+Kaisei Decol Medium.otf
+Kaisei Decol Regular.otf
+Kaisei Tokumin Bold.otf
+Kaisei Tokumin ExtraBold.otf
+Kaisotai Next UP B.otf
+Kazuraki SP2N L.otf
+Kinto Sans Bold.otf
+Kinto Sans Regular.otf
+Kinto Sans Thin.otf
+Kinuta KinutaMincho StdN B.otf
+Kinuta KinutaMincho StdN L.otf
+Kinuta KinutaMincho StdN R.otf
+Kinuta MaruMaruGothic ALr StdN R.otf
+Kinuta MaruMaruGothic ASr StdN R.otf
+Kinuta MaruMaruGothic BSr StdN R.otf
+Kinuta MaruminFuji StdN R.otf
+Kinuta Shin StdN 12K.otf
+Kinuta Shin StdN 150K.otf
+Kinuta Shin StdN 24K.otf
+Kinuta Shin StdN 48K.otf
+Kinuta Shin StdN 6K.otf
+Kinuta Yamamotoan Classic StdN R.otf
+Kinuta iroha 21popura StdN R.otf
+KinutaYamamotoan Classic StdN R.otf
+Kiwi Maru Light.otf
+Kiwi Maru Medium.otf
+Kiwi Maru Regular.otf
+Klee One Regular.otf
+Klee One SemiBold.otf
+KodomoRounded Regular.otf
+KodomoRounded-Light Regular.otf
+Kozuka Gothic Pr6N B.otf
+Kozuka Gothic Pr6N EL.otf
+Kozuka Gothic Pr6N L.otf
+Kozuka Gothic Pr6N M.otf
+Kozuka Gothic Pr6N R.otf
+Kozuka Mincho Pr6N B.otf
+Kozuka Mincho Pr6N EL.otf
+Kozuka Mincho Pr6N M.otf
+Kozuka Mincho Pro H.otf
+Kozuka Mincho Pro R.otf
+KsoKokuryuSou Regular.otf
+KsoShinryuSou Regular.otf
+M+ 1c heavy.otf
+M+ 1c light.otf
+M+ 1c regular.otf
+M+ 2c black.otf
+M+ 2c bold.otf
+M+ 2c regular.otf
+M+ 2c thin.otf
+M+ 2m bold.otf
+Makinas 4 Flat.otf
+Mamelon 3 Hi Regular.otf
+Mamelon 3.5 Hi Regular.otf
+Mamelon 4 Hi Regular.otf
+Mitimasu Regular.otf
+MonopinJRegular Regular.otf
+Murecho Black.otf
+Murecho ExtraBold.otf
+Murecho ExtraLight.otf
+Murecho Light.otf
+Murecho Regular.otf
+Murecho SemiBold.otf
+New Tegomin Regular.otf
+NitalagoRera 3.otf
+NitalagoRuika 06.otf
+Noto Sans CJK JP Black.otf
+Noto Sans CJK JP Bold.otf
+Noto Sans CJK JP DemiLight.otf
+Noto Sans CJK JP Light.otf
+Noto Sans CJK JP Medium.otf
+Oradano-mincho-GSRR mincho-GSRR.otf
+Oshidashi-M-Gothic Regular.otf
+Otomanopee One Regular.otf
+PopRumCute Normal.otf
+Potta One Regular.otf
+Rampart One Regular.otf
+Reggae One Regular.otf
+Rera 2.otf
+RocknRoll One Regular.otf
+Ronde-B Square.otf
+Rounded M+ 1c black.otf
+Rounded M+ 1c heavy.otf
+Rounded M+ 1c light.otf
+Rounded M+ 1c medium.otf
+Rounded M+ 1c regular.otf
+Rounded M+ 2c black.otf
+Rounded M+ 2c bold.otf
+Rounded M+ 2c heavy.otf
+Rounded M+ 2c light.otf
+Rounded M+ 2c medium.otf
+Rounded M+ 2c regular.otf
+Ruika 09.otf
+Ryo Text PlusN L.otf
+Sawarabi Gothic Medium.otf
+Senobi Gothic Bold.otf
+Senobi Gothic Medium.otf
+Senobi Gothic Regular.otf
+SeptemberN 3.otf
+SetoFont-SP Regular.otf
+Shippori Antique B1 Regular.otf
+Shippori Mincho B1 Bold.otf
+Shippori Mincho B1 ExtraBold.otf
+Shippori Mincho B1 Medium.otf
+Shippori Mincho B1 Regular.otf
+Shippori Mincho B1 SemiBold.otf
+Shippori Mincho Bold.otf
+Shippori Mincho Medium.otf
+Shippori Mincho Regular.otf
+Shippori Mincho SemiBold.otf
+Source Han Sans CN Bold.otf
+Source Han Sans CN ExtraLight.otf
+Source Han Sans CN Heavy.otf
+Source Han Sans CN Light.otf
+Source Han Sans CN Medium.otf
+Source Han Sans CN Normal.otf
+Source Han Sans HK Bold.otf
+Source Han Sans HK ExtraLight.otf
+Source Han Sans HK Heavy.otf
+Source Han Sans HK Light.otf
+Source Han Sans HK Medium.otf
+Source Han Sans HK Normal.otf
+Source Han Sans HK Regular.otf
+Source Han Sans KR Bold.otf
+Source Han Sans KR ExtraLight.otf
+Source Han Sans KR Heavy.otf
+Source Han Sans KR Medium.otf
+Source Han Sans TW Regular.otf
+Source Han Serif Bold.otf
+Source Han Serif ExtraLight.otf
+Source Han Serif HC Heavy.otf
+Source Han Serif HC Medium.otf
+Source Han Serif HC Regular.otf
+Source Han Serif HC SemiBold.otf
+Source Han Serif K Light.otf
+Source Han Serif Light.otf
+Source Han Serif Medium.otf
+Source Han Serif TC SemiBold.otf
+Stick Regular.otf
+TA-F1blockline Regular.otf
+TA-candy Regular.otf
+TA-dansyaku Regular.otf
+TA-engeifude Regular.otf
+TA-houdate_m500 Regular.otf
+TA-hougan_k500 Regular.otf
+TA-kai_regular Regular.otf
+TA-kaku_shadow Regular.otf
+TA-koigokoro Regular.otf
+TA-kokoro_no2 Regular.otf
+TA-kotodama_r Regular.otf
+TA-madam Regular.otf
+TA-marugo_gf_01 Regular.otf
+TA-marugo_gf_03 Regular.otf
+TA-marugo_gf_04 Regular.otf
+TA-marugo_gf_05 Regular.otf
+TA-mincho_gf_01 Regular.otf
+TA-mincho_gf_02 Regular.otf
+TA-mincho_gf_03 Regular.otf
+TA-miyabi Regular.otf
+TA-nasubi Regular.otf
+TA-rb Regular.otf
+TA-shiguma Regular.otf
+TA-souiimei Regular.otf
+TA_aki Regular.otf
+TA_amayadori_m Regular.otf
+TA_fuga_fude Regular.otf
+TA_kakugo_gf_01 Regular.otf
+TA_kakugo_gf_02 Regular.otf
+TA_kasanemarugo Regular.otf
+TA_kobe Regular.otf
+TA_marugo_gf_02 Regular.otf
+TA_oonishi Regular.otf
+TA_pop_kaku Regular.otf
+TA_pop_tomo Regular.otf
+TA_rehitsu_m Regular.otf
+TA_shizuku Regular.otf
+TA_yugemeijin Regular.otf
+TA_yuka Regular.otf
+TBUDMincho Std M.otf
+TBUDRGothic Std R.otf
+Ten Mincho Italic.otf
+Togalite Black.otf
+Togalite Bold.otf
+Togalite Heavy.otf
+Togalite Light.otf
+Togalite Medium.otf
+Togalite Regular.otf
+Togalite Thin.otf
+TogebaraBold Regular.otf
+TogebaraLight Regular.otf
+TogebaraMedium Regular.otf
+Toppan BunkyuGothicPr6N R.otf
+Toppan BunkyuMidashiGoStd EB.otf
+Toppan BunkyuMidashiGoStdN EB.otf
+Toppan BunkyuMidashiMinStd EB.otf
+Toppan BunkyuMinchoPr6N R.otf
+Train One Regular.otf
+UDDigiKyokasho Pro R.otf
+VDL-ADMin R.otf
+VDL-GigaG M.otf
+VDL-GigaJr M.otf
+VDL-GigaMaru M.otf
+VDL-KuroMincho M.otf
+VDL-KyoSensya R.otf
+VDL-LineG R.otf
+VDL-LineGR R.otf
+VDL-LineGR-pop FutoLine.otf
+VDL-LineGR-pop Shadow.otf
+VDL-LogoJr R.otf
+VDL-LogoJrBlack BK.otf
+VDL-LogoMaru Jr R.otf
+VDL-LogoMaru-pop FutoLine.otf
+VDL-LogoMaru-pop Shadow.otf
+VDL-Logona R.otf
+VDL-MegaG R.otf
+VDL-MegaMaru R.otf
+VDL-MegaMaru-pop FutoLine.otf
+VDL-MegaMaru-pop Shadow.otf
+VDL-PenGentle B.otf
+VDL-PenLetter M.otf
+VDL-PetaG M.otf
+VDL-TeraG M.otf
+VDL-V7Gothic EB.otf
+VDL-V7Gothic L.otf
+VDL-V7Gothic M.otf
+VDL-V7Gothic U.otf
+VDL-V7MaruGothic B.otf
+VDL-V7MaruGothic EB.otf
+VDL-V7MaruGothic L.otf
+VDL-V7MaruGothic M.otf
+VDL-V7MaruGothic U.otf
+VDL-V7Mincho B.otf
+VDL-V7Mincho EB.otf
+VDL-V7Mincho L.otf
+VDL-V7Mincho M.otf
+VDL-V7Mincho U.otf
+VDL-YotaG M.otf
+WanpakuRera 4.otf
+WanpakuRuika 08.otf
+Yomogi Regular.otf
+Yu Gothic Pr6N R.otf
+Yu Mincho Pr6N R.otf
+Yuji Boku Regular.otf
+Yusei Magic Regular.otf
+Zen Antique Regular.otf
+Zen Antique Soft Regular.otf
+Zen Kaku Gothic Antique Light.otf
+Zen Kaku Gothic Antique Medium.otf
+Zen Kaku Gothic Antique Regular.otf
+Zen Kurenaido Regular.otf
+Zen Maru Gothic Black.otf
+Zen Maru Gothic Bold.otf
+Zen Maru Gothic Light.otf
+Zen Maru Gothic Medium.otf
+Zen Maru Gothic Regular.otf
+Zen Old Mincho Bold.otf
+akabara-cinderella Regular.otf
+irohakakuC ExtraLight.otf
+irohakakuC Light.otf
+irohakakuC Medium.otf
+irohakakuC Regular.otf
+irohamaru Regular.otf
+irohamaru mikami Light.otf
+irohamaru mikami Medium.otf
+irohamaru mikami Regular.otf
+kurobara gothic black.otf
+kurobara gothic bold.otf
+kurobara gothic heavy.otf
+kurobara gothic light.otf
+kurobara gothic medium.otf
+kurobara gothic regular.otf
+kurobara gothic thin.otf
+kurobara-cinderella Regular.otf
+pigmo 00.otf
+pigmo 01.otf
+seiwa-do-L Light.otf
+timemachine wa Regular.otf
+wenwrite Monospaced.otf
