@@ -1,5 +1,5 @@
 *.pt
-*experiment*
+experiment
 *.png
 *.jpeg
 *.log

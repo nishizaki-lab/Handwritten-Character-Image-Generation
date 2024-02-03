@@ -43,7 +43,7 @@ def main():
     # 学習率(現状固定)
     parser.add_argument("-lr", "--learning_rate", type=float, default=1e-4)
     # バッチサイズ(現状固定)
-    parser.add_argument("-batch", "--batch_size", type=int, default=64)
+    parser.add_argument("-batch", "--batch_size", type=int, default=288)
     # 画像サイズ(現状固定)
     parser.add_argument("-size", "--img_size", type=int, default=224)
     args = parser.parse_args()
@@ -109,10 +109,10 @@ def main():
     config["std"] = model.default_cfg["std"]
 
     train_data = Dataset(use_list, train_list, config, "train")
-    train_dataloader = torch.utils.data.DataLoader(train_data, batch_size = config["batch_size"], shuffle=True, num_workers=4)
+    train_dataloader = torch.utils.data.DataLoader(train_data, batch_size = config["batch_size"], shuffle=True, num_workers=8)
 
     test_data = Dataset(use_list, val_list, config, "val")
-    test_dataloader = torch.utils.data.DataLoader(test_data, batch_size = int(config["batch_size"]/4), shuffle=False, num_workers=1)
+    test_dataloader = torch.utils.data.DataLoader(test_data, batch_size = int(config["batch_size"]/4), shuffle=False, num_workers=4)
 
     if config["optimizer"]=="SGD":
         optimizer = torch.optim.SGD(model.parameters(), lr=config["learning_rate"])

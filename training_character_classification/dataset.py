@@ -6,6 +6,8 @@ import os
 import albumentations as A
 import random
 
+import utils as image_util
+
 class Dataset(data.Dataset):
     def __init__(self, class_list, indices, config, phase):
         super().__init__()
@@ -39,24 +41,34 @@ class Dataset(data.Dataset):
         self.compose = A.Compose(aug_list)
 
     def path2img_etl(self, path):
-        img = cv2.imread(path)
+        img = cv2.imread(path,cv2.IMREAD_GRAYSCALE)
         h, w= img.shape[0], img.shape[1]
-        s = 0.1
-        img = img[round(h*s):h - round(h*s), round(w*s):w - round(w*s)]
+        s_h = 0.125
+        s_w = 0.15
+        img = img[round(h*s_h):h - round(h*s_h), round(w*s_w):w - round(w*s_w)]
         img = cv2.resize(img,(self.img_size, self.img_size))
-        img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        img = cv2.bitwise_not(img)
-        _, img = cv2.threshold(img, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)
+        _,img = cv2.threshold(img,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+        img = cv2.bitwise_not(img) # 白黒反転
+
+        img = image_util.crop_all_contours(img)
+        img = cv2.bitwise_not(img) # 白黒反転
+        img = image_util.adjust_square(img)
+        img = image_util.known_pad(img)
+
         img = cv2.cvtColor(img, cv2.COLOR_GRAY2BGR)
+        img = cv2.resize(img,(self.img_size, self.img_size))
 
         return img
 
     def path2img_gen(self, path):
         img = cv2.imread(path,cv2.IMREAD_GRAYSCALE)
-        brank = 50
+        img = cv2.resize(img,(self.img_size, self.img_size))
+        _,img = cv2.threshold(img,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
         img = cv2.bitwise_not(img) # 白黒反転
-        img = cv2.copyMakeBorder(img, brank, brank, brank, brank, cv2.BORDER_CONSTANT)
+        img = image_util.crop_all_contours(img)
         img = cv2.bitwise_not(img) # 白黒反転
+        img = image_util.adjust_square(img)
+        img = image_util.known_pad(img)
 
         img = cv2.resize(img,(self.img_size, self.img_size))
         img = cv2.cvtColor(img, cv2.COLOR_GRAY2RGB)
@@ -65,6 +77,14 @@ class Dataset(data.Dataset):
 
     def path2img_diff_gen(self, path):
         img = cv2.imread(path,cv2.IMREAD_GRAYSCALE)
+        img = cv2.resize(img,(self.img_size, self.img_size))
+        _,img = cv2.threshold(img,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+        img = cv2.bitwise_not(img) # 白黒反転
+        img = image_util.crop_all_contours(img)
+        img = cv2.bitwise_not(img) # 白黒反転
+        img = image_util.adjust_square(img)
+        img = image_util.known_pad(img)
+
         img = cv2.resize(img,(self.img_size, self.img_size))
         img = cv2.cvtColor(img, cv2.COLOR_GRAY2RGB)
 

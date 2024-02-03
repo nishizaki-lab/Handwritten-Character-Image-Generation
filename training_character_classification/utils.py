@@ -92,3 +92,52 @@ def get_classification_report(all_char, chars, label_list, pred_list):
     report.append(w)
 
     return report
+
+
+
+
+import cv2
+
+def crop_all_contours(image):
+    # しきい値処理で物体を分離
+    _, thresholded = cv2.threshold(image, 128, 255, cv2.THRESH_BINARY)
+
+    # 輪郭を検出
+    contours, _ = cv2.findContours(thresholded, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+
+    if contours:
+        # 全ての輪郭の座標を結合
+        # all_contours = np.vstack(contours[i] for i in range(len(contours)))
+        all_contours = np.vstack([contours[i] for i in range(len(contours))])
+
+        # 全ての輪郭を囲む長方形を取得
+        x, y, w, h = cv2.boundingRect(all_contours)
+
+        # 画像を切り抜く
+        cropped_image = image[y:y+h, x:x+w]
+        return cropped_image
+    else:
+        return image
+
+def adjust_square(img, blank=0):
+    h, w = img.shape[0], img.shape[1]
+    img = cv2.bitwise_not(img)
+    if h>=w:
+        img = cv2.copyMakeBorder(img, 0, 0, int((h-w)/2), int((h-w)/2), cv2.BORDER_CONSTANT, 0)
+    else:
+        img = cv2.copyMakeBorder(img, int((w-h)/2), int((w-h)/2), 0, 0, cv2.BORDER_CONSTANT, 0)
+    # 正方形にする
+    img = cv2.copyMakeBorder(img, blank, blank, blank, blank, cv2.BORDER_CONSTANT, 0)
+    img = cv2.bitwise_not(img)
+    img = cv2.resize(img, (img.shape[0], img.shape[0]))
+
+    return img
+
+def known_pad(img, pad=20, pad_value=0):
+    h, w = img.shape[0], img.shape[1]
+    img = cv2.bitwise_not(img)
+    up_pad, down_pad, left_pad, right_pad = pad, pad, pad, pad
+    # 正方形にする
+    img = cv2.copyMakeBorder(img, up_pad, down_pad, right_pad, left_pad, cv2.BORDER_CONSTANT, pad_value)
+    img = cv2.bitwise_not(img)
+    return img
