@@ -1,17 +1,17 @@
-import torch
-import timm
-import torchmetrics
-import torch.nn as nn
-from torch.utils.tensorboard import SummaryWriter
-import argparse
-import os
-import time
-import json
-import sys
-from tqdm import tqdm
-from sklearn.metrics import accuracy_score
 import random
 import numpy as np
+import torch
+import torch.nn as nn
+from torch.utils.tensorboard import SummaryWriter
+import torchmetrics
+import timm
+import argparse
+import sys
+import os
+import json
+import time
+from sklearn.metrics import accuracy_score
+
 
 from utils import get_etl_train_val_data, get_gen_data, get_classification_report
 from dataset import Dataset
