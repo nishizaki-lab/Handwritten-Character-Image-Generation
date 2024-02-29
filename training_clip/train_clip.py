@@ -33,7 +33,7 @@ def main():
     parser.add_argument("-size", "--img_size", type=int, default=224)
     parser.add_argument('--aug', action='store_true')
 
-    parser.add_argument("--use_char", type=str, default="information/hira_kana_kanji.txt")
+    parser.add_argument("--use_char", type=str, default="../information/hira_kana_kanji.txt")
     parser.add_argument("--element_json", type=str, default="../information/structure.json")
     parser.add_argument("--vocabulary_list", type=str, default="../information/vocabulary.txt")
 
