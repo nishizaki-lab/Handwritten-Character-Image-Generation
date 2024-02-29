@@ -33,6 +33,7 @@ def main():
     parser.add_argument("-size", "--img_size", type=int, default=224)
     parser.add_argument('--aug', action='store_true')
 
+    parser.add_argument("--use_char", type=str, default="information/hira_kana_kanji.txt")
     parser.add_argument("--element_json", type=str, default="../information/structure.json")
     parser.add_argument("--vocabulary_list", type=str, default="../information/vocabulary.txt")
 
@@ -45,8 +46,7 @@ def main():
 
     device = torch.device("cuda:%d"%(config["gpu"]) if torch.cuda.is_available() else "cpu")
 
-    use_class = "../information/hira_kana_kanji.txt"
-    with open(use_class) as f:
+    with open(config["use_char"]) as f:
         use_list = [s.strip() for s in f.readlines()]
     print("num class : ", len(use_list))
 

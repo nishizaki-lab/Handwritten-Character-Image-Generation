@@ -8,7 +8,6 @@ import torch
 from torch import nn
 import transformers
 from transformers import BertConfig, BertModel, BertForSequenceClassification
-from typing import List, Optional, Tuple, Union
 
 class Identity(nn.Module):
     def __init__(self):
