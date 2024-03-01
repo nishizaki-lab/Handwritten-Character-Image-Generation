@@ -6,7 +6,7 @@ This study introduces data augmentation techniques to enhance training datasets 
 
 ## Usage
 First, get the data you need for this study
-- [ETL database](https://etlcdb.db.aist.go.jp/?lang=ja)
+- [ETL database](http://etlcdb.db.aist.go.jp/?lang=ja)
 
 Once downloaded, manage it with JSON as shown below:
 ```
